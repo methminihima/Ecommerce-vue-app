@@ -1,5 +1,20 @@
 # Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# 🛍️ ShopEase – E-Commerce Website (Vue 3 + Vite + Tailwind CSS)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+ShopEase is a modern, responsive e-commerce web application built using **Vue 3**, **Vite**, and **Tailwind CSS**.  
+This project features product listings, categories, carousels, responsive design, and smooth UI components suitable for any perfume or fashion store.
+
+
+## 🚀 Features
+
+- 🌟 Fully responsive modern UI  
+- 🧭 Sticky navbar with smooth scroll  
+- 🎁 Categories (Men’s, Women’s, Luxury, etc.)  
+- 🛒 Product carousel with discount badges  
+- ❤️ Wishlist & user icons  
+- 🎨 Tailwind CSS for fast styling  
+- ⚡ Lightning-fast Vite bundler  
+- 📱 Mobile-friendly navigation menu  
+- 🔧 Clean component-based structure 
+
